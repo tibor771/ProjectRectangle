@@ -1,4 +1,4 @@
-package sk.itsovy.sestak; // this is coment
+package sk.itsovy.sestak;
 
 public class Main {
 
